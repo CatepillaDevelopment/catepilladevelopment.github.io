@@ -1,0 +1,19 @@
+site_name: Catepila Development
+site_url: http://williamglyork.github.io/catepilagames/
+nav:
+  - Home: index.md
+  - Requirements: req.md
+  - Architecture: arch.md
+  - Planning: planning.md
+  - Risk Assessment: risk.md
+  - Implementation: imp.md
+theme:
+  name: material
+  logo: img/catepila_head.png
+  favicon: img/catepila_head.png
+  font:
+    text: Comic Sans
+  palette:
+    scheme: default
+    primary: light green
+    accent: deep orange

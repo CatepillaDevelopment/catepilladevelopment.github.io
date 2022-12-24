@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://williamglyork.github.io/catepilagames/</loc>
+         <lastmod>2022-12-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://williamglyork.github.io/catepilagames/arch/</loc>
+         <lastmod>2022-12-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://williamglyork.github.io/catepilagames/imp/</loc>
+         <lastmod>2022-12-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://williamglyork.github.io/catepilagames/planning/</loc>
+         <lastmod>2022-12-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://williamglyork.github.io/catepilagames/req/</loc>
+         <lastmod>2022-12-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://williamglyork.github.io/catepilagames/risk/</loc>
+         <lastmod>2022-12-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
