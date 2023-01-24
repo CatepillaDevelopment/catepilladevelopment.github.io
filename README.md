@@ -1,6 +1,6 @@
-The website to document our development.
-Contains all examined deliverables
+The website is to document our development.
+It contains all examined deliverables.
 
-/docs contains the HTML files that are deployed to [our website](https://catepilladevelopment.github.io)
+gh-pages branch contains the HTML files that are deployed to [our website](https://catepilladevelopment.github.io)
 
-/MD contains the markdown files, as designed with MKDocs
+main branch contains the markdown, content, and config files, as designed with MKDocs
