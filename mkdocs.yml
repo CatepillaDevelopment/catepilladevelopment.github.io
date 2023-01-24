@@ -1,5 +1,7 @@
 site_name: Catepila Development
 site_url: https://catepilladevelopment.github.io/
+repo_url: https://github.com/CatepillaDevelopment/PiazzaPanic
+repo_name: PiazzaPanic
 nav:
   - Home: index.md
   - Requirements: req.md
@@ -9,6 +11,12 @@ nav:
   - Implementation: imp.md
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.expand
+    - header.autohide
+    - content.tabs.link
   logo: img/catepila_head.png
   favicon: img/catepila_head.png
   font:
