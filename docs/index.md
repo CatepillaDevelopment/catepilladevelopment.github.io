@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+  - toc
+  - footer
+---
+
 # CATEPILA DEVELOPMENT
 
 ![Image](img/CATEPILA_DEVELOPMENT.png)
