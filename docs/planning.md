@@ -6,51 +6,106 @@ hide:
 
 # Planning
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tristique dolor non justo venenatis, vitae fringilla orci tristique. Morbi vitae hendrerit erat. In hac habitasse platea dictumst. Aliquam ultrices lectus eu lobortis malesuada. Sed eu sapien erat. Etiam lacinia mauris quis libero egestas finibus. Duis nisi elit, ultrices id imperdiet id, consectetur in justo. Aenean sed varius odio, ac laoreet nulla. Curabitur bibendum quis velit vitae placerat. Duis nisl dolor, posuere sed luctus in, porta quis erat. Nunc lorem risus, maximus sed condimentum sit amet, congue eget magna. Nunc pharetra accumsan elit. Vestibulum sit amet dapibus ex. Ut mattis ultrices magna ac tempor. 
-
 ## Weekly plan
 
-### **21/11/2022**
+Each week contains Gannt charts and a workbreakdown
+
+### **Version 1**
+
+![Breakdown 1](img/Work Breakdown/WorkBreakdown-week1.png)
 
 Our initial Gantt charts. Work is not yet assigned to members of the team
 
-![Documentation](img/2022-21-11/documentation.png)
+![Documentation](img/V1/documentation.png)
 
 ---
 
-![Design](img/2022-21-11/design.png)
+![Design](img/V1/design.png)
 
 ---
 
-![Implementation](img/2022-21-11/implementation.png)
+![Implementation](img/V1/implementation.png)
 
 ---
 
-![Requirement elicitation](img/2022-21-11/req.png)
+![Requirement elicitation](img/V1/req.png)
 
 ---
 
-![Testing](img/2022-21-11/testing.png)
+![Testing](img/V1/testing.png)
 
-### **28/11/2022**
+### **Version 2**
 
-![Documentation](img/2022-28-11/Documentation.png)
-
----
-
-![Design](img/2022-28-11/Design.png)
+![Breakdown 2](img/Work Breakdown/WorkBreakdown-week2.png)
 
 ---
 
-![Implementation](img/2022-28-11/Implementation.png)
+![Documentation](img/V2/Documentation.png)
 
 ---
 
-![Requirement elicitation](img/2022-28-11/Requirements.png)
+![Design](img/V2/Design.png)
 
 ---
 
-![Testing](img/2022-28-11/Testing.png)
+![Implementation](img/V2/Implementation.png)
+
+---
+
+![Requirement elicitation](img/V2/Requirements.png)
+
+---
+
+![Testing](img/V2/Testing.png)
+
+### **Version 3**
+
+![Breakdown 1](img/Work Breakdown/WorkBreakdown-week3.png)
+
+---
+
+![Documentation](img/V3/Documentation.png)
+
+---
+
+![Design](img/V3/Design.png)
+
+---
+
+![Implementation](img/V3/Implementation.png)
+
+---
+
+![Requirement elicitation](img/V3/Requirements.png)
+
+---
+
+![Testing](img/V3/Testing.png)
+
+### **Version 4**
+
+![Breakdown 1](img/Work Breakdown/WorkBreakdown-week4.png)
+
+---
+
+![Documentation](img/V4/Documentation.png)
+
+---
+
+![Design](img/V4/Design.png)
+
+---
+
+![Implementation](img/V4/Implementation.png)
+
+---
+
+![Requirement elicitation](img/V4/Requirements.png)
+
+---
+
+![Testing](img/V4/Testing.png)
+
 
 ## Plan1.pdf
 
