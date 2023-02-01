@@ -17,3 +17,7 @@ hide:
 * Jack Hardy (jjh599)
 * Bailey Uniacke (bpu500)
 * Ben Young (by782)
+
+## Logbook
+
+Available [here](pdf/Logbook.pdf)
