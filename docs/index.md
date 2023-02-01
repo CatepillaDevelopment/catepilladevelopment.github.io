@@ -5,7 +5,7 @@ hide:
   - footer
 ---
 
-# CATEPILA DEVELOPMENT
+# CATEPILLA DEVELOPMENT
 
 ![Image](img/CATEPILA_DEVELOPMENT.png)
 
